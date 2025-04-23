@@ -1,5 +1,4 @@
-import net.javaguides.bankingapp.entity.User;
-import net.javaguides.bankingapp.service.UserService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
