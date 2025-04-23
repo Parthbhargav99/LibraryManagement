@@ -1,8 +1,4 @@
 
-import net.javaguides.bankingapp.entity.Book;
-import net.javaguides.bankingapp.entity.User;
-import net.javaguides.bankingapp.repository.BookRepository;
-import net.javaguides.bankingapp.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
