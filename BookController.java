@@ -1,5 +1,3 @@
-import net.javaguides.bankingapp.entity.Book;
-import net.javaguides.bankingapp.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
